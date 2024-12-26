@@ -5,6 +5,7 @@ const page = () => {
   return (
     <div>
       <Header  bgColor="bg-#FFFFFF"/>
+
     </div>
   )
 }

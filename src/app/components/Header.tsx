@@ -13,10 +13,10 @@ const Header = ({ bgColor = 'bg-[#FBEBB5]' }) => {
             <Link href="/Contact">Contact</Link>
         </div>
         <div className=' flex justify-center items-center gap-4 ml-auto'>
-            <img src="mdi_account-alert-outline.svg" alt="account" className='w-6 h-6'/>
-            <img src="akar-icons_search.svg" alt="search" className='w-6 h-6'/>
-            <img src="akar-icons_heart.svg" alt="heart" className='w-6 h-6'/>
-            <img src="ant-design_shopping-cart-outlined.svg" alt="shopping" className='w-6 h-6'/>
+            <img src="/mdi_account-alert-outline.svg" alt="account" className='w-6 h-6'/>
+            <img src="/akar-icons_search.svg" alt="search" className='w-6 h-6'/>
+            <img src="/akar-icons_heart.svg" alt="heart" className='w-6 h-6'/>
+            <img src="/ant-design_shopping-cart-outlined.svg" alt="shopping" className='w-6 h-6'/>
         </div>
       
     </div>

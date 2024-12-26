@@ -15,7 +15,7 @@ const Hero = () => {
         {/* Right Side Main Image */}
         <div className='w-[853px] h-auto mt-4 lg:mt-0 flex justify-center lg:justify-end'>
           <img 
-            src="Rocket single seater 1.svg" 
+            src="/Rocket single seater 1.svg" 
             alt="main-sofa" 
             className='w-full h-auto object-contain lg:mr-0 lg:mt-0' 
           />
@@ -27,14 +27,14 @@ const Hero = () => {
         
         {/* Table Image */}
         <img 
-          src="Group 9.svg" 
+          src="/Group 9.svg" 
           alt="table" 
           className='w-[605px] h-auto px-8' 
         />
         
         {/* Sofa Image */}
         <img 
-          src="Group 8.svg" 
+          src="/Group 8.svg" 
           alt="sofa" 
           className='w-[605px] h-auto px-8' 
         />
@@ -57,7 +57,7 @@ const Hero = () => {
   {/* First Image */}
   <div className="text-center">
     <img 
-      src="Group 18.svg " 
+      src="/Group 18.svg " 
       alt="Trenton Modular Sofa" 
       className="w-[287px] h-auto mx-auto"
     />
@@ -67,7 +67,7 @@ const Hero = () => {
   {/* Second Image */}
   <div className="text-center">
     <img 
-      src="Group 15.svg" 
+      src="/Group 15.svg" 
       alt="Granite Dining Table" 
       className="w-[287px] h-auto mx-auto"
     />
@@ -76,7 +76,7 @@ const Hero = () => {
 
   <div className='text-center'>
     <img 
-      src="Group 16.svg" 
+      src="/Group 16.svg" 
       alt="bar table" 
       className='w-[287px] h-auto mx-auto'
     />
@@ -84,7 +84,7 @@ const Hero = () => {
 
   <div className='text-center'>
     <img 
-      src="Group 17.svg" 
+      src="/Group 17.svg" 
       alt="mirror" 
       className='w-[287px] h-auto mx-auto'
     />
@@ -104,7 +104,7 @@ const Hero = () => {
       {/* Sofa Image on Left */}
       <div className="w-full lg:w-1/2 flex justify-center">
         <img 
-          src="Asgaard sofa 1.svg" 
+          src="/Asgaard sofa 1.svg" 
           alt="Asgaard Sofa" 
           className="w-[983px] h-auto object-contain"
         />
@@ -137,7 +137,7 @@ const Hero = () => {
         {/* Blog Card 1 */}
         <div className="flex flex-col items-center text-center">
           <img 
-            src="Rectangle 13.svg" 
+            src="/Rectangle 13.svg" 
             alt="Blog Image 1" 
             className="w-full h-auto rounded-lg shadow-md"
           />
@@ -152,7 +152,7 @@ const Hero = () => {
         {/* Blog Card 2 */}
         <div className="flex flex-col items-center text-center">
           <img 
-            src="Rectangle 15.svg" 
+            src="/Rectangle 15.svg" 
             alt="Blog Image 2" 
             className="w-full h-auto rounded-lg shadow-md"
           />
@@ -167,7 +167,7 @@ const Hero = () => {
         {/* Blog Card 3 */}
         <div className="flex flex-col items-center text-center">
           <img 
-            src="Rectangle 16.svg" 
+            src="/Rectangle 16.svg" 
             alt="Blog Image 3" 
             className="w-full h-auto rounded-lg shadow-md"
           />
@@ -203,6 +203,7 @@ const Hero = () => {
         Follow Us
       </button>
     </div>
+
 
 </div>
     
